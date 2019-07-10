@@ -1,0 +1,6 @@
+﻿  searchFile.cpp
+e:\c++\test\test\searchfile.cpp(22): warning C4018: '<': signed/unsigned mismatch
+e:\c++\test\test\searchfile.cpp(30): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+  test.vcxproj -> E:\c++\test\Debug\test.exe
